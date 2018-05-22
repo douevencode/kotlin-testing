@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinTesting</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_card_number">Card number</string>
+    <string name="action_check">Check card number</string>
+</resources>
