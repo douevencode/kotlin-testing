@@ -17,6 +17,5 @@ class CardInputActivity : AppCompatActivity(){
         check_button.setOnClickListener {
             cardPresenter.validateCardData(card_number.text.toString())
         }
-
     }
 }
